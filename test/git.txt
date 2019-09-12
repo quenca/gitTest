@@ -1,0 +1,5 @@
+Git add (nome do arquivo)
+Git commit -m "comentario"
+Git log 
+git branch 
+Git checkout . 
