@@ -4,3 +4,8 @@ Git log
 git branch 
 Git checkout . 
 MASTER
+1
+2
+3
+4
+5
