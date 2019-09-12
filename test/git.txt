@@ -1,1 +1,11 @@
+<<<<<<< Updated upstream
 testes
+=======
+Git add (nome do arquivo)
+Git commit -m "comentario"
+Git log 
+git branch 
+Git checkout . 
+Git clone "nome do diretorio"
+Git stash (salvar as mudanças) 
+>>>>>>> Stashed changes
